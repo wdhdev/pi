@@ -1,5 +1,5 @@
 function * pi() {
-	let q = 1n;
+    let q = 1n;
     let r = 180n;
     let t = 60n;
     let i = 2n;
@@ -21,9 +21,7 @@ let gen = pi();
 let t = 0;
 
 setInterval(() => {
-	t += 1;
+    t += 1;
 
-	console.log(
-		`Digit ${t} = ${gen.next().value}`
-	)
+    console.log(`Digit ${t} = ${gen.next().value}`)
 }, 1)
