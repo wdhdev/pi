@@ -1,2 +1,1 @@
-# pi
-Calculate Pi
+# Calculate Pi
