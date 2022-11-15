@@ -23,5 +23,5 @@ let t = 0;
 setInterval(() => {
     t += 1;
 
-    console.log(`Digit ${t} = ${gen.next().value}`)
+    console.log(`Digit ${t}: ${gen.next().value}`)
 }, 1)
