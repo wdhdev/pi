@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/WilliamDavidHarrison/pi/main/assets/pi.png" height="64" width="64"></p>
-<h1 align="center">Pi Calculator</h1>
+<h1 align="center">Calculate Pi</h1>
 
 ### Requirements
 - Node.js
