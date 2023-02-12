@@ -41,5 +41,3 @@ node index.js
 ```
 
 Once you run the command, the digits should begin printing in the terminal.
-
-To stop the counting, press `CTRL + C` on Windows and Linux or `CMD + C` on Mac.
