@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/WilliamDavidHarrison/pi/main/assets/pi.png" height="64" width="64"></p>
 <h1 align="center">Calculate Pi</h1>
 
-### Run
+## Run
 Copy the following code from [index.js](https://github.com/WilliamDavidHarrison/pi/blob/main/index.js) into a file called `index.js` on your computer.
 
 ```js
