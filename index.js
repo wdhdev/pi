@@ -1,4 +1,4 @@
-function pi() {
+function* pi() {
     let q = 1n;
     let r = 180n;
     let t = 60n;
