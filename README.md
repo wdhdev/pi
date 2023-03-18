@@ -10,7 +10,7 @@ You can calculate Pi from your command line, using our simple [npm package](http
 Copy the following code from [index.js](https://github.com/WilliamDavidHarrison/pi/blob/main/index.js) into a file called `index.js` on your computer.
 
 ```js
-function pi() {
+function* pi() {
     let q = 1n;
     let r = 180n;
     let t = 60n;
