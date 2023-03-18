@@ -37,7 +37,6 @@ setInterval(() => {
 
     console.log(`Digit ${t}: ${gen.next().value}`);
 }, 1);
-
 ```
 
 Then in a terminal run the following command in the directory where the code is located.
