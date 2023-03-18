@@ -2,6 +2,11 @@
 <h1 align="center">Calculate Pi</h1>
 
 ## Run
+
+### CLI
+You can calculate Pi from your command line, using our simple [npm package](https://www.npmjs.com/package/pi-calculator).
+
+### Manual
 Copy the following code from [index.js](https://github.com/WilliamDavidHarrison/pi/blob/main/index.js) into a file called `index.js` on your computer.
 
 ```js
